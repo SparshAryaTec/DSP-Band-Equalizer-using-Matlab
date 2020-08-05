@@ -1,2 +1,2 @@
 # DSP-Band-Equalizer-using-Matlab
-MATLAB CODE
+MATLAB CODE for Major Semester Project
